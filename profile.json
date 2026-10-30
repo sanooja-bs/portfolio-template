@@ -1,19 +1,21 @@
 {
-    "name": "Your Name",
-    "tagline": "Your one-line introduction",
-    "bio": "Write 2 or 3 sentences about yourself.",
+    "name": "SANOOJA B S",
+    "tagline": "Curious by nature, creative by heart, and always building my way toward something bigger.",
+    "bio": "First year B.Tech Computer Science student at TKM College of Engineering, building a foundation in programming and web development. I learn by creating hands-on projects and documenting my progress on GitHub.",
     "skills": [
         "Git",
-        "HTML"
+        "HTML",
+        "JavaScript",
+        "C++"
     ],
     "projects": [
         {
-            "title": "My first project",
-            "desc": "What it does.",
-            "link": "https://github.com/yourname"
+            "title": "Deadline and Focus app",
+            "desc": "Deadline countdown, focus timer and daily streak tracker built with HTML, CSS and JavaScript.",
+            "link": "https://github.com/sanooja-bs/deadline_project"
         }
     ],
     "links": {
-        "github": "https://github.com/yourname"
+        "github": "https://github.com/sanooja-bs"
     }
 }
